@@ -1,6 +1,12 @@
 # Bootcamp Santander Code Girls
 Projetos propostos pelo Bootcamp Santander Code Girls - DIO
 
+## 💻 Tecnologias utilizadas
+- Java
+
+## 📈 Status do projeto
+Em andamento
+
 # Desafio 1 - <a href="https://github.com/lroberta569/santander-code-girls/blob/main/Desafios%20Java/Desafios/src/com/br/basico/Intervalo.java">Intervalo</a>
 
 Faça um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Caso o valor não esteja em nenhum destes intervalos, deverá ser impressa a mensagem: “Fora de intervalo”.
