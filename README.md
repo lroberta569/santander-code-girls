@@ -56,7 +56,7 @@ Não de forma surpreendente, existe uma fórmula com a qual podemos calcular fac
 28
 </p>
 
-# Desagio 3 -  <a href="https://github.com/lroberta569/santander-code-girls/blob/main/Desafios%20Java/Desafios/src/com/br/basico/SelecaoIndiceVetor.java">Seleção de Índice do Vetor</a>
+# Desafio 3 -  <a href="https://github.com/lroberta569/santander-code-girls/blob/main/Desafios%20Java/Desafios/src/com/br/basico/SelecaoIndiceVetor.java">Seleção de Índice do Vetor</a>
 O objetivo deste desafio é resolvê-lo utilizando o seu conhecimento sobre Arrays, uma estrutura de dados que armazena uma coleção de dados em um bloco de memória.
 
 Desenvolva um programa que guarde em um vetor nomes de funcionários de uma empresa.  Deve-se permitir que, ao indicar o índice do vetor, seja indicado qual funcionário está armazenado dentro dessa memória.
