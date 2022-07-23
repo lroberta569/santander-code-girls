@@ -29,6 +29,8 @@ public class Tabuada {
 			System.out.println(tabuada + " X " + i + " = " + tabuada * i);
 			
 		}
+		
+		leia.close();
 	
 
 	}

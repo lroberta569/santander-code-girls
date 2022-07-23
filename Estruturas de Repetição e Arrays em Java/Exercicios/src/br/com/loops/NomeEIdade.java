@@ -16,6 +16,7 @@ public class NomeEIdade {
 		String nome;
 		int idade;
 		
+		
 		while(true) {
 		
 		System.out.println("Nome: ");
@@ -28,6 +29,8 @@ public class NomeEIdade {
 		}
 		
 		System.out.println("Fim");
+		
+		leia.close();
 	}
 
 }

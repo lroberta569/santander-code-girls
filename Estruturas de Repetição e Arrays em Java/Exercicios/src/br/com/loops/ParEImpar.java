@@ -37,7 +37,7 @@ public class ParEImpar {
 		System.out.println("Quantidade de pares: " + qntPares);
 		System.out.println("Quantidade de ímpares: " + qntImpares);
 		
-		
+		leia.close();
 
 	}
 

@@ -37,6 +37,7 @@ public class MaiorEMedia {
 		System.out.println("Maior: " + maior);
 		System.out.println("Média: " + soma / 5);
 		
+		leia.close();
 
 	}
 

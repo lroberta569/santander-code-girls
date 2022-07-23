@@ -23,7 +23,11 @@ public class Fatorial {
 		
 		System.out.print( multiplicacao);
 		
+		leia.close();
+		
 
 	}
+	
+	
 
 }

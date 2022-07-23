@@ -24,6 +24,7 @@ public class Nota {
 			
 		}
 
+		leia.close();
 	}
 
 }
