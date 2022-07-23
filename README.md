@@ -15,11 +15,10 @@ O símbolo ( representa "maior que". Por exemplo:
 [0,25]  indica valores entre 0 e 25.0000, inclusive eles.
 (25,50] indica valores maiores que 25 Ex: 25.00001 até o valor 50.0000000
 
-<p><strong>Entrada</strong> <br>
+# Entrada
 O arquivo de entrada contém um número com ponto flutuante qualquer.<br>
-<strong>Saída</strong> <br>
+# Saída
 A saída deve ser uma mensagem conforme exemplo abaixo.
-</p>
 
 <p><strong>Exemplo de Entrada:</strong> <br>
 25.01<br>
