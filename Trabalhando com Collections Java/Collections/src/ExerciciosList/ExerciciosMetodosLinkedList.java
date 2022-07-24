@@ -1,4 +1,4 @@
-package Exercicios;
+package ExerciciosList;
 
 import java.util.LinkedList;
 
@@ -8,7 +8,7 @@ import java.util.LinkedList;
 
 public class ExerciciosMetodosLinkedList {
 
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		
 		System.out.print("Crie uma lista chamada notas ");
 		LinkedList<Double> notas = new LinkedList<Double>();
@@ -28,5 +28,4 @@ public class ExerciciosMetodosLinkedList {
 		System.out.println(notas);
 
 	}
-
 }
