@@ -1,11 +1,5 @@
-# Bootcamp Santander Code Girls
-Projetos propostos pelo Bootcamp Santander Code Girls - DIO
-
 ## 💻 Tecnologias utilizadas
 - Java
-
-## 📈 Status do projeto
-Em andamento
 
 # Desafio 1 - <a href="https://github.com/lroberta569/santander-code-girls/blob/main/Desafios%20Java/Desafios/src/com/br/basico/Intervalo.java">Intervalo</a>
 
