@@ -1,2 +1,0 @@
-Aula de introdução ao git e github.
-Desafio de git.
